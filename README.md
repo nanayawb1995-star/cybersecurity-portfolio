@@ -2,3 +2,6 @@
 Professional cybersecurity portfolio showcasing security labs, audits, incident response, and technical documentation.
 ## Professional Statement
 - [View my professional cybersecurity statement](01-professional-statement/professional-statement.md)
+## Security Audit Projects
+
+- [Internal Security Audit – Botium Toys](02-security-audit/botium-toys-internal-audit.md)
