@@ -7,4 +7,6 @@ Professional cybersecurity portfolio showcasing security labs, audits, incident 
 - [Internal Security Audit – Botium Toys](02-security-audit/botium-toys-internal-audit.md)
 ## Network Security Analysis
 
-- DNS and ICMP Traffic Analysis – Incident Report
+## Network Security Analysis
+
+- [DNS and ICMP Traffic Analysis – Incident Report](03-network-security/dns-icmp-incident-report.md)
