@@ -9,3 +9,4 @@ Professional cybersecurity portfolio showcasing security labs, audits, incident 
 ## Network Security Analysis
 
 - [DNS and ICMP Traffic Analysis – Incident Report](03-network-security/dns-icmp-incident-report.md)
+- [SYN Flood Attack Analysis – Incident Report](03-network-security/syn-flood-attack-analysis.md)
