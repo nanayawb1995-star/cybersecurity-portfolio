@@ -11,3 +11,13 @@ Professional cybersecurity portfolio showcasing security labs, audits, incident 
 - [DNS and ICMP Traffic Analysis – Incident Report](03-network-security/dns-icmp-incident-report.md)
 - [SYN Flood Attack Analysis – Incident Report](03-network-security/syn-flood-attack-analysis.md)
 - [Web Server Brute Force Attack – Incident Report](03-network-security/web-server-brute-force-incident-report.md)
+
+
+
+
+
+
+
+## Vulnerability Assessment
+
+- [Social Media Network Hardening Risk Assessment](07-vulnerability-assessment/social-media-network-hardening-risk-assessment.md)
