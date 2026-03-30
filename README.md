@@ -21,3 +21,7 @@ Professional cybersecurity portfolio showcasing security labs, audits, incident 
 ## Vulnerability Assessment
 
 - [Social Media Network Hardening Risk Assessment](07-vulnerability-assessment/social-media-network-hardening-risk-assessment.md)
+
+## Incident Response
+
+- [DoS ICMP Flood Incident Analysis (NIST CSF)](06-incident-response/dos-icmp-flood-nist-analysis.md)
